@@ -1,0 +1,6 @@
+com\mycompany\graphql\Product.class
+com\mycompany\graphql\StartGraphQL.class
+com\mycompany\graphql\ProductForm.class
+com\mycompany\graphql\GraphQLConfig.class
+com\mycompany\graphql\ProductRepository.class
+com\mycompany\graphql\ProductForm$GraphQLQuery.class
